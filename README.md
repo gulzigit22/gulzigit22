@@ -1,6 +1,10 @@
-gulzigit22/flutterdevoloper
+<h1 align="center">Hi 👋, I'm Mustafa Nabiev</h1>
+<h3 align="center"> Flutter developer from Kyrgyzstan 🇰🇬</h3>
 
 
+- 🔭 I’m currently working on [Tilbil](https://play.google.com/store/apps/details?id=com.tilbil.kg&hl=ru&gl=US)
+- 🌱 I’m currently learning **Dart, Flutter, C++, C#, Solidity, Rust, Go, Php, MySQL**
+- 📫 How to reach me **talantbekuulugulzigit51@gmail.com**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
